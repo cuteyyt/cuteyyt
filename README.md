@@ -13,13 +13,6 @@
 - a junior student in Zhejiang University, major in CS.
 - [find more](https://cuteyyt.github.io/)
 
-### GitHub stats
-[![cuteyyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuteyyt&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
-[![cuteyyt's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuteyyt&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
-[![cuteyyt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cuteyyt&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Projects
 #### Courses
 
