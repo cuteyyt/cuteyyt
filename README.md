@@ -10,7 +10,7 @@
 </p>
 
 ### About Me
-- a junior student in Zhejiang University, major in CS.
+- a senior student in Zhejiang University, major in CS.
 - [find more](https://cuteyyt.github.io/)
 
 ### Projects
