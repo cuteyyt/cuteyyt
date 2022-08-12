@@ -1,16 +1,16 @@
 ## Hi there! I'm cuteyyt.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="left">
-<a href="youtanyin@zju.edu.cn">
-  <img alt="Email" src="https://img.shields.io/badge/Email-youtanyin@zju.edu.cn-blue?style=plastic&logo=gmail" />
+<a href="youtan001@e.ntu.edu.sg">
+  <img alt="Email" src="https://img.shields.io/badge/Email-youtan001@e.ntu.edu.sg-blue?style=plastic&logo=gmail" />
 </a>
-<a href="youtanyin@zju.edu.cn">
+<a href="youtan001@e.ntu.edu.sg">
   <img alt="Wechat" src="https://img.shields.io/badge/Wechat-cuteyyt-blue?style=plastic&logo=wechat" />
 </a>
 </p>
 
 ### About Me
-- a senior student in Zhejiang University, major in CS.
+- a PhD student at NTU, major in CS.
 - [find more](https://cuteyyt.github.io/)
 
 ### Projects
