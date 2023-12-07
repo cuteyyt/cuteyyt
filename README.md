@@ -1,4 +1,4 @@
-## Hi there! I'm cuteyyt.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi there! I'm Yin Youtan (Chinese 尹幽潭).<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="left">
 <a href="youtan001@e.ntu.edu.sg">
@@ -7,7 +7,5 @@
 </p>
 
 ### About Me
-- a PhD student at NTU, major in CS.
+- a CS PhD student at NTU.
 - [find more](https://cuteyyt.github.io/)
-
-⭐️ From [cuteyyt](https://github.com/cuteyyt)
