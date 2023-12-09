@@ -7,5 +7,5 @@
 </p>
 
 ### About Me
-- a CS PhD student at NTU.
+- a CS Ph.D. student at Nanyang Technological University (NTU).
 - [find more](https://cuteyyt.github.io/)
